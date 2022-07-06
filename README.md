@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paul Feghali</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulfeghali&label=Profile%20views&color=0e75b6&style=flat" alt="paulfeghali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulfeghali" alt="paulfeghali" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/paul_feghali" target="blank"><img src="https://img.shields.io/twitter/follow/paul_feghali?logo=twitter&style=for-the-badge" alt="paul_feghali" /></a> </p>
 
 - 📫 How to reach me **paulfeghali2006@gmail.com**
