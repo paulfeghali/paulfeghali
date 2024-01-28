@@ -7,6 +7,7 @@
 <li>🔭 I’m currently working on <a href="https://paulfeghali.netlify.app">My LinkTree</a>.</li>
 <li>🧑‍💻 Learning about cs
 <li>🏎️ F1 enthusiast 
+<li>🎲 Backgammon aka "Tawleh" player     
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
