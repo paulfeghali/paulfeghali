@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Feghali</h1>
 
-- 📫 reach ou to me! **paulfeghali2006@gmail.com**
+- 📫 Reach ou to me! **paulfeghali2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
