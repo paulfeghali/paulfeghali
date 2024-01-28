@@ -18,5 +18,7 @@
 </p>
 </ul>
 <h2>📊 Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=paulfeghali&show_icons=true&count_private=true" alt="paulfeghali" />
-<p><a href="http://hits.dwyl.com/paulfeghali/paulfeghali/paulfeghali.svg?style=flat-square"><img src="https://hits.dwyl.com/paulfeghali/paulfeghali/paulfeghali.svg?style=flat-square" alt="HitCount"></a></p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=paulfeghali&theme=dark&show_icons=true">
+    <img align="left" width="50%" src="https://github-readme-stats-paulfeghali.vercel.app/api?username=paulfeghali&show_icons=true">
+</picture>
