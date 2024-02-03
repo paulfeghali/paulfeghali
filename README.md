@@ -15,6 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30" />
+<img src="file:///Users/paulfeghali/Downloads/swift-svgrepo-com.svg" alt="swift" width="30" height="30" />
 </p>
 </ul>
 <h2>📊 Github Stats</h2>
