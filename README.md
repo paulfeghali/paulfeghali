@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://paulfeghali.netlify.app/">Paul</a></h2>
 <p>I'm currently a student at <strong>Aragon High</a>. I am working on some side projects...</p>
 <p></a> <a href="https://www.linkedin.com/in/paul-feghali-3649b3247/"><img src="https://img.shields.io/badge/-@paulfeghali-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>  <a href="https://open.spotify.com/user/paulfeghali"><img src="https://img.shields.io/badge/-@Paul%20Feghali-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/paulfeghali" alt="Spotify Badge"></a></p>
-<img align="right" src="https://i.pinimg.com/originals/41/01/b2/4101b2f38b50d334db87de48c9250c22.gif" />
+<img align="right" src="[https://i.pinimg.com/originals/41/01/b2/4101b2f38b50d334db87de48c9250c22.gif](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://paulfeghali.netlify.app">My LinkTree</a>.</li>
